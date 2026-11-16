@@ -94,3 +94,6 @@ sw.*
 
 # Vim swap files
 *.swp
+
+# Native iOS app (not formatted by Prettier)
+ios/
